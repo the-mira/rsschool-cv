@@ -1,1 +1,1 @@
-# This is my first task in Rs School
+# https://the-mira.github.io/rsschool-cv/
