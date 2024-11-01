@@ -1,1 +1,1 @@
-# https://the-mira.github.io/rsschool-cv/
+https://the-mira.github.io/rsschool-cv/
